@@ -51,6 +51,10 @@ The following models were implemented and compared:
 6. Model Evaluation  
 7. Model Comparison  
 
+## How to Run
+1.Install required libraries: pip install -r requirements.txt
+2.Run: Open Employee_Attrition_Prediction.ipynb
+
 ## Conclusion
 Among all models tested, Gradient Boosting achieved the highest accuracy of approximately 88.4 percent. Ensemble learning methods such as Random Forest and Gradient Boosting performed better because they can capture complex patterns in the dataset.
 
